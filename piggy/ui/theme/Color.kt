@@ -1,0 +1,30 @@
+package com.example.piggy.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+
+val DarkGray = Color(0xFF202020)
+val LightBlue = Color(0xFFD7E8DE)
+
+val RedOrange = Color(0xffffab91)
+val RedPink = Color(0xfff48fb1)
+val BabyBlue = Color(0xff81deea)
+val Violet = Color(0xffcf94da)
+val LightGreen = Color(0xffe7ed9b)
+
+val Teal1 = Color(0xFF297181)
+val Ford = Color(0xFF455779)
+val Chrysler = Color(0xFF3a5b60)
+val Behr = Color(0xFF384c4a)
+val Zoffany = Color(0xFF5a7f72)
+
+
+
+
